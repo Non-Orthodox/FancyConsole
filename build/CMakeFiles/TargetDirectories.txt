@@ -1,0 +1,5 @@
+/home/blake/dev/c++/FancyConsole/build/CMakeFiles/edit_cache.dir
+/home/blake/dev/c++/FancyConsole/build/CMakeFiles/rebuild_cache.dir
+/home/blake/dev/c++/FancyConsole/build/tests/CMakeFiles/test.dir
+/home/blake/dev/c++/FancyConsole/build/tests/CMakeFiles/edit_cache.dir
+/home/blake/dev/c++/FancyConsole/build/tests/CMakeFiles/rebuild_cache.dir
